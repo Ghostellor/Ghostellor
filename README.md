@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1>Web Developer / Full Stack Engineer</h1>
 
-<!--
-**Ghostellor/Ghostellor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm currently studying at Florida International University: B.S in Computer Science
 
-Here are some ideas to get you started:
+🔭 I’m currently working on creating a web portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I'm actively learning Data Structures, Web Development, And Java
+
+👯 I’m looking to assist in website creations
+
+📚 I'm certified in C++, Java, Python, JavaScript, React, Next.js, HTML & CSS
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ghostellor&theme=dark)](https://git.io/streak-stats)
+
+<div>
+<a href="https://github.com/Ghostellor/github-readme-stats">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Ghostellor&theme=dark" />
+</a>
+</div>
+ <div>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ghostellor&layout=compact&langs_count=8&card_width=320&theme=dark" />
+</a>
+</div>
+
