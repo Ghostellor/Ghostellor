@@ -29,7 +29,7 @@
 
 <div align = center>
 <a href="https://git.io/streak-stats">
-  <img height=150 src="https://streak-stats.demolab.com/?user=Ghostellor&theme=dark" />
+  <img height=175 src="https://streak-stats.demolab.com/?user=Ghostellor&theme=dark" />
 </a>
 </div>
 
