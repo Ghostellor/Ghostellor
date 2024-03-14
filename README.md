@@ -12,17 +12,17 @@
 <h1 align=center>
   Web Developer / Full Stack Engineer
 </h1>
+<div align=center>
+  🎓 I'm currently studying at Florida International University: B.S in Computer Science
+	
+  🔭 I’m currently working on creating a web portfolio.
 
-🎓 I'm currently studying at Florida International University: B.S in Computer Science
+  🌱 I'm actively learning Data Structures, Web Development, And Java.
 
-🔭 I’m currently working on creating a web portfolio.
+  👯 I’m looking to assist others in their website creations.
 
-🌱 I'm actively learning Data Structures, Web Development, And Java.
-
-👯 I’m looking to assist others in their website creations.
-
-📚 I'm certified in C++, Java, Python, JavaScript, React, Next.js, HTML & CSS.
-
+  📚 I'm certified in C++, Java, Python, JavaScript, React, Next.js, HTML & CSS.
+</div>
 <h2 align=center>
   🔥Stats🔥
 </h2>
