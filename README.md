@@ -10,7 +10,7 @@
 </h1>
 
 <h1 align=center>
-  Web Developer / Full Stack Engineer
+  🖥Web Developer / Full Stack Engineer🖥
 </h1>
 <div align=center>
   🎓 I'm currently studying at Florida International University: B.S in Computer Science
