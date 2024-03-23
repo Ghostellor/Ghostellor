@@ -23,6 +23,11 @@
 
   📚 I'm certified in C++, Java, Python, JavaScript, React, Next.js, HTML & CSS.
 </div>
+
+<div>
+	<img src="[YOUR_VERCEL_PROJECT_DOMAIN]/[METHOD]?username=https://www.linkedin.com/in/skyler-hall1/" />
+</div>
+
 <h2 align=center>
   🔥Stats🔥
 </h2>
