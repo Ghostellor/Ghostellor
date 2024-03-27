@@ -25,8 +25,11 @@
 </div>
 
 <div align = center>
-	<a href="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white">
-  		<img height=175 src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
+	<a href="https://skylerhall.me/">
+  		<img height=100 src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
+	</a>
+	<a href="https://www.linkedin.com/in/skyler-hall1/">
+  		<img height=100 src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
 </div>
 
