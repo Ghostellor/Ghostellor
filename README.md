@@ -24,8 +24,10 @@
   📚 I'm certified in C++, Java, Python, JavaScript, React, Next.js, HTML & CSS.
 </div>
 
-<div>
-	<img src="[YOUR_VERCEL_PROJECT_DOMAIN]/[METHOD]?username=https://www.linkedin.com/in/skyler-hall1/" />
+<div align = center>
+	<a href="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white">
+  		<img height=175 src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
+	</a>
 </div>
 
 <h2 align=center>
@@ -33,9 +35,9 @@
 </h2>
 
 <div align = center>
-<a href="https://git.io/streak-stats">
-  <img height=175 src="https://streak-stats.demolab.com/?user=skyler-hall&theme=dark" />
-</a>
+	<a href="https://git.io/streak-stats">
+  		<img height=175 src="https://streak-stats.demolab.com/?user=skyler-hall&theme=dark" />
+	</a>
 </div>
 
 <div align = center>
