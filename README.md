@@ -2,13 +2,13 @@
 <a>
   <img align="right" src="https://komarev.com/ghpvc/?username=skyler-hall&color=blue&label=Visitors" />
 </a>
-
-<h1>
-  <a href="https://git.io/typing-svg">
-    <img height=200 align="center" src="https://readme-typing-svg.demolab.com/?lines=Hello!;Welcome+to+my+portfolio!" />
-  </a>
-</h1>
-
+<div align = center>
+	<h1>
+ 		<a href="https://git.io/typing-svg">
+    			<img height=200 align="center" src="https://readme-typing-svg.demolab.com/?lines=Hello!;Welcome+to+my+portfolio!" />
+  		</a>
+	</h1>
+<div>
 <h1 align=center>
   🖥Web Developer / Full Stack Engineer🖥
 </h1>
@@ -26,10 +26,10 @@
 
 <div align = center>
 	<a href="https://skylerhall.me/">
-  		<img height=100 src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
+  		<img height=10 src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
 	</a>
 	<a href="https://www.linkedin.com/in/skyler-hall1/">
-  		<img height=100 src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  		<img height=10 src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
 </div>
 
